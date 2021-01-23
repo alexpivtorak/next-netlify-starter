@@ -11,11 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Something cool is coming!" />
+        <Header title="Something cool is coming" />
         <p className="description">stay tuned</p>
       </main>
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
