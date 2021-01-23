@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">Something cool is coming</p>
+        <Header title="Something cool is coming!" />
+        <p className="description">stay tuned</p>
       </main>
 
       <Footer />
